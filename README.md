@@ -1,6 +1,7 @@
 # 3D-Sigma-Combat-Game
 Sigma fights to survive
 
+!! The demo video is kinda bad because I could not screen record, as my PC is not that powerful, so I had to use my phone, please take it with a grain of salt!!
 Pretty much just a wave-survival combat game that I made, it features:
 
  Physics 
